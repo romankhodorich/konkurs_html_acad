@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1000px;
+    background-color: #000;
+    margin: 0 auto;
+    font-family: 'montserrat'sans-serif;
+    font-family: Montserrat;
+    color: white;
+}
+
+.header {
+    height: 1136px;
+    background-image: url(img/bg_image.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: contain;
+    padding: 105px 73px;
+    margin-bottom: 128px;
+}
+
+
+/* стили шрифта */
+.heading {
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 85px;
+    color: #FFFFFF;
+    padding-bottom: 90px;
+}
+
+.body-text {
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    padding-bottom: 90px;
+}
+
+.orange {
+    color: #F66C41;
+}
+
+.grey {
+    color: #BCBBBB;
+}
+
+.lined {
+    text-decoration: line-through;
+}
+
+.italic {
+    font-weight: 700;
+    font-style: italic;
+    padding-bottom: 20px;
+}
+
+.fw500 {
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+}
+
+.footer-text {
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+}
+
+/* стили шрифта */
+
+.body {
+    padding-left: 73px;
+    padding-right: 116px;
+}
+
+.list {
+    font-weight: 500;
+    list-style-position: inside;
+}
+
+.footer {
+    padding-top: 90px;
+    padding-bottom: 104px;
+    padding-left: 73px;
+    padding-right: 116px;
+    color: #F66C41;
+    text-decoration: underline;
+}
